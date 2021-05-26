@@ -1,14 +1,14 @@
 # Site settings
-title: Vinayak Iyer
+title: Sakshi Gupta
 description: 5th Year PhD Candidate, Department of Economics, Columbia University
-url: 'https://vinayakiyer.github.io'
+url: 'https://gupta-sakshi.github.io'
 baseurl: ""
 google_analytics: 'UA-154586808-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Vinayak Iyer'
-  email: vi2137@columbia.edu
+  name: 'Sakshi Gupta'
+  email: sakshi.gupta@columbia.edu
 
 defaults:
   -
