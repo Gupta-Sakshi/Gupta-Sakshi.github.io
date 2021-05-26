@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
+<p>My primary fields are Labor Economics, Development Economics with focus on Gender.
 </p>
 
 <!---
@@ -14,7 +14,6 @@ tags: [jekyll]
 (<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
--->
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 <ul>
   <p><b><font size="3"><span style="color:#6495ed"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" style="color:#2980b9;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></span></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" style="color:#1a5276;" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" style="color:#1a5276;" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></b>
@@ -43,3 +42,10 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
   <p><b><font size="3">Transparency and Polarization of Political Speech : Evidence from Canada, (with <em>William Labasi Samartino</em>)</font></b></p>
 </ul> 
 
+<h4 id="Policy Work"><strong>Policy Work</strong></h4>
+<ul>
+  <p><b><font size="3">Is there an Urban Wage Premium in Rwanda?, (with <em>Jonathan Bower and Carlo Menon</em>)</font></b></p>
+</ul> 
+<ul>
+  <p><b><font size="3">Sharing Responsibility through Joint Decisionmaking and Implications for Intimate-Partner Violence: Evidence from 12 Sub-Saharan African countries, (with <em>Aletheia Donald, Cheryl Doss and Markus Goldstein</em>)</font></b></p>
+</ul> 
