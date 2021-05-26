@@ -3,9 +3,10 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a 5th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization.
+I am a 5th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Labor Economics, Development Economics and Gender.
 
-Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015.
+My current work focuses on understanding the impact of social and cultural norms on economic outcomes for women, especially their labor force participation in India.
 
-Apart from research, I like playing chess and squash.
+I hold a Master's degree in Economics from the Delhi School of Economics and a Bachelor’s degree from St. Stephen’s College.  
 
+For more information, please contact me at sakshi.gupta@columbia.edu
