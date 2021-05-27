@@ -8,13 +8,21 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <h5 id="masters"><strong>Teaching Assistant, Columbia University </strong></h5>
+
 <ul>
- <li> Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em>Fall'19, Spring'20</em> -- (<a href="https://github.com/Gupta-Sakshi/principles_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>) </li>
-  <li>Globalization and its Risks &middot; <em>Spring'19</em> -- (<a href="https://github.com/Gupta-Sakshi/global_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
+ <li> Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em>Fall'19, Spring'20</em> 
+  <!----- (<a href="https://github.com/Gupta-Sakshi/principles_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>) 
+-->
+</li>
+  <li>Globalization and its Risks &middot; <em>Spring'19</em> 
+   <!-- (<a href="https://github.com/Gupta-Sakshi/global_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)
+-->
+</li>
   <li>Financial Economics &middot;  <em>Summer'18</em> </li>
 </ul>
 
 <h5 id="dse"><strong> Remedial Lecturer, Delhi School of Economics </strong></h5>
+
 <ul>
   <li>Microeconomics (M.A. Course)  &middot; <em>Fall'16</em> </li>
   <li>Game Theory (M.A. Course)  &middot; <em>Spring'17</em> </li>
