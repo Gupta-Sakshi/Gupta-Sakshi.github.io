@@ -21,7 +21,7 @@ tags: [jekyll]
   <li>Financial Economics &middot;  <em>Summer'18</em> </li>
 </ul>
 
-<h5 id="dse"><strong> Remedial Lecturer, Delhi School of Economics </strong></h5>
+<h5 id="dse"><strong> Remedial Lectures, Delhi School of Economics </strong></h5>
 
 <ul>
   <li>Microeconomics (M.A. Course)  &middot; <em>Fall'16</em> </li>
