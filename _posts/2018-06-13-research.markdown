@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Labor Economics, Development Economics with focus on Gender.
+<p>My primary fields are Labor Economics and Development Economics with focus on Gender.
 </p>
 
 <!---
