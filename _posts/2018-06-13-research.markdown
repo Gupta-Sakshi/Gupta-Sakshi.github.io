@@ -46,7 +46,7 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
   <li><font size="3">Measuring the Effectiveness of Financial Incentives in Altering Parents' Fertility Decisions</font></li>
 </ul> 
 <ul>
-  <li><font size="3">On Existence and Properties of Pure Strategy Equilibria under Contests, (with <em>Ram Singh</em>)</font></li>
+  <li><font size="3">On Existence and Properties of Pure Strategy Equilibria under Contests, (with <font size="2"> <em>Ram Singh</em> </font>)</font></li>
 </ul> 
 
 
