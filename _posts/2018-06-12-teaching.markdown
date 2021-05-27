@@ -10,7 +10,7 @@ tags: [jekyll]
 <h5 id="masters"><strong>Teaching Assistant, Columbia University </strong></h5>
 <ul>
  <li> Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em>Fall'19, Spring'20</em> -- (<a href="https://github.com/Gupta-Sakshi/principles_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>) </li>
-  <li>GLobalization and its Risks &middot; <em>Spring'19</em> -- (<a href="https://github.com/Gupta-Sakshi/global_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
+  <li>Globalization and its Risks &middot; <em>Spring'19</em> -- (<a href="https://github.com/Gupta-Sakshi/global_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
   <li>Financial Economics &middot;  <em>Summer 2018</em> </li>
 </ul>
 
