@@ -34,7 +34,8 @@ ICT dampens traditional information frictions, but not marketing barriers.</font
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
 <ul>
  <p><b><font size="3"> Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font>,
-  <br/><font size="2"><a style="color:#17202a;">Vickrey Award for best 3rd year paper (Runner-up)</a></font>, <font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#17202a;">Coverage: IGC - Ideas For India</a</font>
+  <br/><font size="2"><a style="color:#17202a;">Vickrey Award for best 3rd year paper (Runner-up)</a></font>
+   <br/><font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#17202a;">Coverage: IGC - Ideas For India</a</font>
    <br/><font size="2"><a style="color:#17202a;">Presentations: NEUDC 2020</a></font>
    </p></b>
   </ul> 
