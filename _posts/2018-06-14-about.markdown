@@ -9,4 +9,4 @@ My current work focuses on understanding the impact of social and cultural norms
 
 I hold a Master's degree in Economics from the Delhi School of Economics and a Bachelor’s degree from St. Stephen’s College.  
 
-For more information, please contact me at sakshi.gupta@columbia.edu
+For more information, please contact me at <font size="2"><a style="color:#4183C4;">sakshi.gupta@columbia.edu</a></font>
