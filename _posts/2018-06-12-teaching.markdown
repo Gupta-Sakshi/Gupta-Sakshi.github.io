@@ -3,20 +3,19 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h4 id="columbia-university"><strong>Columbia University</strong></h4>
-<p>I have been a teaching assistant or an instructor for the following courses -
+<p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
-<h5 id="masters"><strong>Masters</strong></h5>
+<h5 id="masters"><strong>Teaching Assistant, Columbia University </strong></h5>
 <ul>
- <li> MA Math Camp (Instructor)  &middot; <em>2019 , 2020</em> -- (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2020" style="color:#2980b9;" target="_blank">Course Material</a>) </li>
-  <li>Microeconomic Theory &middot; <em>2019</em> -- (<a href="{{ site.baseurl }}/files/micro2019spring.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
-  <li>Math Method for Economists &middot;  <em>2018 , 2019, 2020</em> -- (<a href="{{ site.baseurl }}/files/math2018fall-merged.pdf" style="color:#2980b9;" target="_blank">Evaluation (2018)</a>, <a href="{{ site.baseurl }}/files/math2019fall.pdf" style="color:#2980b9;" target="_blank">Evaluation (2019)</a>, 
-   <a href="{{ site.baseurl }}/files/math2020fall.pdf" style="color:#2980b9;" target="_blank">Evaluation (2020)</a>)</li>
+ <li> Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em>Fall'19, Spring'20</em> -- (<a href="https://github.com/Gupta-Sakshi/principles_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>) </li>
+  <li>GLobalization and its Risks &middot; <em>Spring'19</em> -- (<a href="https://github.com/Gupta-Sakshi/global_student_eval.pdf" style="color:#2980b9;" target="_blank">Evaluation</a>)</li>
+  <li>Financial Economics &middot;  <em>Summer 2018</em> </li>
 </ul>
 
-<h5 id="undergrad"><strong>Undergraduate</strong></h5>
+<h5 id="dse"><strong> Remedial Lecturer, Delhi School of Economics </strong></h5>
 <ul>
-  <li>Principles of Economics  &middot; <em>2017 , 2018</em> -- (<a href="{{ site.baseurl }}/files/principles2017.pdf" style="color:#2980b9;" target="_blank">Evaluation (2017)</a> , <a href="{{ site.baseurl }}/files/principles2018.pdf" style="color:#2980b9;" target="_blank">Evaluation (2018)</a>)</li>
+  <li>Microeconomics (M.A. Course)  &middot; <em>Fall'16</em> </li>
+  <li>Game Theory (M.A. Course)  &middot; <em>Spring'17</em> </li>
 </ul>
