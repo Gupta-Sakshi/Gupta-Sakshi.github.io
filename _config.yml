@@ -1,15 +1,14 @@
 # Site settings
 title: Sakshi Gupta
-description: 5th Year PhD Candidate, Department of Economics, Columbia University <a href="mailto:sakshi.gupta@columbia.edu">(sakshi.gupta@columbia.edu)</a>
+description: 5th Year PhD Candidate, Department of Economics, Columbia University 
+#<a href="mailto:sakshi.gupta@columbia.edu">(sakshi.gupta@columbia.edu)</a>
 url: 'https://gupta-sakshi.github.io'
 baseurl: ""
-google_analytics: 'UA-154586808-1'
-# disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Sakshi Gupta'
-  email: sakshi.gupta@columbia.edu
-
+  email: sakshi.gupta@columbia.edu 
+  
 defaults:
   -
     scope:
