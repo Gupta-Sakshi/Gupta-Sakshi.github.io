@@ -8,27 +8,17 @@ tags: [jekyll]
 </p>
 
 <!---
-<h3 id="job-market-paper">Job Market Paper</h3>
-<ul>
-  <h4><b>Title of Paper</b>
-(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
-</ul>
-<h4 id="working-papers"><strong>Working Papers</strong></h4>
-<ul>
-  <p><b><font size="3"><span style="color:#6495ed"><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_073020.pdf" style="color:#2980b9;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></span></font>, <font size="3">(with <a href="https://sites.google.com/site/jonashjort/" style="color:#1a5276;" target="_blank"><em>Jonas Hjort</em></a> and <a href="https://golvine.com/" style="color:#1a5276;" target="_blank"><em>Golvine de Rochambeau</em></a>)</font></b>
-  <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font></p></ul>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-<!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
-<!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
-growth-conducive markets. We hypothesize that overlooked heterogeneity in marketing
-ability distorts market access. To investigate, we gave a random subset of Liberian
-firms vouchers for a week-long program that teaches how to sell to corporations, governments,
-and other large buyers. Firms that participate win about three times as
-many contracts, but only firms with access to the Internet benefit. We use a simple
-model and variation in online and offline demand to show evidence that this is because
-ICT dampens traditional information frictions, but not marketing barriers.</font></p></details>
--->
+<p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font></a></strong><br>
+  <font size="2" style="color:#000000;">Award: Vickrey Award for best 3rd year paper (Runner-up)</a></font>
+   <br/><font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font>
+   <br/><font size="2"><a style="color:#17202a;">Presentations: The North East Universities Development Consortium (NEUDC) 2020, Young Economist Symposium (YES) 2021 </a></font>
+ </font></b></p>
+ <ul style="margin-top:-17px;"> 
+  <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Over the past few decades, Indian women have become more educated and
+have gained greater control over their fertility decisions, but, unlike the western experience, this has not led to increased participation in the labor market. I examine the role played by the male breadwinner norm in explaining this puzzle. I first establish a sharp discontinuity in the distribution of the share of the wife’s income in the total household income where the wife’s income exceeds the husband’s income. The size of this discontinuity is much larger than that observed in developed countries like the U.S. I show that this pattern can be best explained by gender identity norms that make couples averse to situations where the wife earns more than her husband. I do so by interpreting the male breadwinner norm as a notch in household preferences which results in this kind of aversion. Moreover, I show that this aversion has real implications on the labor market decisions of the wife. First, she is less likely to participate in market activities if her potential income is likely to exceed her husband’s. Second, she earns less than her potential if she does work and can potentially out-earn her husband. I observe that this phenomenon is more pronounced in couples where husbands are making the labor
+market decisions of their wives and in households that follow other regressive gender norms suggesting backlash.</font></p></details></ul>
 
     
 <h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
