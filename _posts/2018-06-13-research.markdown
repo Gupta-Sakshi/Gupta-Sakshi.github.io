@@ -49,9 +49,8 @@ on decision making by the husband. The results are consistent with joint decisio
 
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>SELECTED WORK IN PROGRESS</center></strong></h4>
-
-<p style="margin-top:30px;"><font size="3" style="color:#505050">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#505050">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#505050">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
+<font size="3" style="color:#505050">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<font size="3" style="color:#505050">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<font size="3" style="color:#505050">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
 
 
