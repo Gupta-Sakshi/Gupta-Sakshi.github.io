@@ -28,7 +28,7 @@ tags: [jekyll]
 effects on the fertility decision of parents? As part of a broader research agenda, I look at this question in context of an intervention, Bhagyalakshmi. Launched in March 2006, in an Indian state, Karnataka, the intervention provided financial incentives to couples for having girl children with an intention to improve the sex ratio and the condition of girls born in the state. My results suggest that Bhagyalakshmi led to an increase in total fertility in Karnataka by approximately 1.3\% but had no effect on the proportion of sons living in the state, indicating the the scheme was not able to achieve it’s intended goals.</font></p></details></ul>
 
 
-<h4 style="margin-top:30px;" id="working-papers"><strong><center>Work in Progress</center></strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>WORK IN PROGRESS</center></strong></h4>
 
 <p style="margin-top:30px;"><font size="3" style="color:#C35900">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
 <p style="margin-top:30px;"><font size="3" style="color:#C35900">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
