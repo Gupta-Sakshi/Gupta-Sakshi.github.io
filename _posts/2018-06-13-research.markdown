@@ -30,17 +30,25 @@ effects on the fertility decision of parents? As part of a broader research agen
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORK IN PROGRESS</center></strong></h4>
 
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
+<p style="margin-top:30px;"><font size="3" style="color:#505050">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<p style="margin-top:30px;"><font size="3" style="color:#505050">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<p style="margin-top:30px;"><font size="3" style="color:#505050">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
 
 
 
 
 
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>POLICY WORK</center></strong></h4>
+
+<p style="margin-top:30px;"><strong><a href="https://www.theigc.org/wp-content/uploads/2021/03/Bower-et-al-2021.pdf" target="_blank"><font size="3" style="color:#C35900">Is there an Urban Wage Premium in Rwanda?</font></a></strong>(<font size="2"> with  <em>Jonathan Bower and Carlo Menon</em> </font>)<br>
+<p style="margin-top:30px;"><strong><a href="https://www.theigc.org/publication/is-there-an-urban-wage-premium-in-rwanda/" target="_blank"><font size="2" style="color:#C35900">IGC Working Paper C-20061-RWA-1</font></a></strong><br></p>
+<ul style="margin-top:-17px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Kigali, Rwanda’s capital, is growing rapidly, and is by far the largest engine of productivity and growth in the country. Whilst Kigali’s household incomes are higher and poverty incidence is lower than in other parts of the country, new migrants to the city often experience precarious housing conditions and difficulty in accessing decent jobs. This paper uses household data from Rwanda to analyse the urban wage premium and urban consumption premium. We find that both nominal wage and nominal consumption of workers in Rwanda are significantly higher in urban areas than in rural areas - and correlate to city size - even when individual characteristics are controlled for. This implies some form of agglomeration effect inherent to Rwanda's cities. We also find evidence that rural-urban migrants undergo a learning process in which their wage increases as they gain more experience in the city; however this result does not hold for consumption which is higher even in the first two years of living in a city, implying resource transfer. The evidence we find in this paper confirms the importance of the urbanisation process for productivity and wage growth. Our findings have implications for how, and where, Rwanda seeks to harness urbanisation to drive growth through urban investments.</font></p></details></ul>
 
 
-<h4 id="Policy Work"><strong>Policy Work</strong></h4>
+
+
+
   <ul>
   <li><font size="3"><span style="color:#C35900"><a href="https://www.theigc.org/wp-content/uploads/2021/03/Bower-et-al-2021.pdf" style="color:#2980b9;" target="_blank">Is there an Urban Wage Premium in Rwanda? (<font size="2"> with  <em>Jonathan Bower and Carlo Menon</em> </font>)</a></span></font>
   <br/><font size="2"><a href="https://www.theigc.org/publication/is-there-an-urban-wage-premium-in-rwanda/" style="color:#C35900;">IGC Working Paper C-20061-RWA-1 </a></font></li>
