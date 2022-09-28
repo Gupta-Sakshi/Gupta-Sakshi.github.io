@@ -21,20 +21,32 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
-<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Liquidity Shock and Schooling: Evidence from India’s Demonetization (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></strong><br>
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Liquidity Shock and Schooling: Evidence from India’s Demonetization </font></strong>(<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
 <ul style="margin-top:-17px;">
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Evidence across developing countries suggests that parents are often credit constrained when making schooling decisions for their children. But little is known about the severity of this constraint. That is, would temporary shocks to liquidity affect parents’ decisions? To identify this effect, we use a shock to available cash in the economy induced by India’s 2016 demonetization. The policy made 86\% of currency-in-circulation illegal overnight and individuals could deposit old notes at the bank in exchange for new ones. We identify the impacts of demonetization’s severity by leveraging discontinuities in banking access across Indian districts. Difference-in-discontinuity estimates show that districts which experienced a more severe liquidity shock saw an increase in dropout from private schools but no effect in free public schools, consistent with the presence of real credit constraints.</font></p></details></ul>
 
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Measuring the Effectiveness of Financial Incentives in Altering Parents’ Fertility Decisions </font></strong><br>
+<ul style="margin-top:-17px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Do financial incentives provided by governments, for the protection and betterment of a girl child, have intended
+effects on the fertility decision of parents? As part of a broader research agenda, I look at this question in context of an intervention, Bhagyalakshmi. Launched in March 2006, in an Indian state, Karnataka, the intervention provided financial incentives to couples for having girl children with an intention to improve the sex ratio and the condition of girls born in the state. My results suggest that Bhagyalakshmi led to an increase in total fertility in Karnataka by approximately 1.3\% but had no effect on the proportion of sons living in the state, indicating the the scheme was not able to achieve it’s intended goals.</font></p></details></ul>
 
+
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>Work in Progress</center></strong></h4>
 <ul>
-  <li><font size="3">Dynamics of Female Labor Force Participation in India </font></li>
+  <li><font size="3"> </font></li>
 </ul> 
 <ul>
-  <li><font size="3">Measuring the Effectiveness of Financial Incentives in Altering Parents' Fertility Decisions</font></li>
+  <li><font size="3">Banks and Roads: Do Complementarities Matter? (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
 </ul> 
 <ul>
-  <li><font size="3">On Existence and Properties of Pure Strategy Equilibria under Contests (<font size="2"> with <em>Ram Singh</em> </font>)</font></li>
+  <li><font size="3">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence
+from India (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
 </ul> 
+<ul>
+  <li><font size="3">The Measurement and Evolution of Son Preference in India (<font size="2"> with <em> S Anukriti and Nistha Sinha</em> </font>)</font></li>
+</ul> 
+
+
 
 
 <h4 id="Policy Work"><strong>Policy Work</strong></h4>
