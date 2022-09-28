@@ -8,11 +8,11 @@ tags: [jekyll]
     
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-<ul>
- <li><font size="3" style="color:#C35900"> Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font>
-  <br/><font size="2"><a style="color:#17202a;">Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up)</a></font>
-   <br/><font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font>
-   <br/><font size="2"><a style="color:#17202a;">Presentations: The North East Universities Development Consortium (NEUDC) 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022 </a></font>
+  <p style="margin-top:30px;"><b><strong><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></strong><br>
+  <font size="2" style="color:#000000;"> Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up) </font><br>
+  <font size="2" style="color:#000000;"> <a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font><br>
+<font size="2" style="color:#000000;"> Presentations: The North East Universities Development Consortium (NEUDC) 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022</font><br>
+    
      <ul style="margin-top:-17px;"> 
   <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Over the past few decades, Indian women have become more educated and have gained greater control over their fertility decisions, but, unlike the western experience, this has not led to increased participation in the labor market. I examine the role played by the male breadwinner norm in explaining this puzzle. I first establish a sharp discontinuity in the distribution of the share of the wife’s income in the total household income where the wife’s income exceeds the husband’s income. The size of this discontinuity is much larger than that observed in developed countries like the U.S. I show that this pattern can be best explained by gender identity norms that make couples averse to situations where the wife earns more than her husband. I do so by interpreting the male breadwinner norm as a notch in household preferences which results in this kind of aversion. Moreover, I show that this aversion has real implications on the labor market decisions of the wife. First, she is less likely to participate in market activities if her potential income is likely to exceed her husband’s. Second, she earns less than her potential if she does work and can potentially out-earn her husband. I observe that this phenomenon is more pronounced in couples where husbands are making the labor market decisions of their wives and in households that follow other regressive gender norms suggesting backlash.</font></p></details></ul>
  </li> 
@@ -56,3 +56,17 @@ from India (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
   <li><font size="3"><span style="color:#6495ed"><a href="https://documents1.worldbank.org/curated/en/255851630330267060/pdf/Sharing-Responsibility-through-Joint-Decision-Making-and-Implications-for-Intimate-Partner-Violence-Evidence-from-12-Sub-Saharan-African-Countries.pdf" style="color:#2980b9;" target="_blank">Sharing Responsibility through Joint Decisionmaking and Implications for Intimate-Partner Violence: Evidence from 12 Sub-Saharan African countries (<font size="2"> with <em>Aletheia Donald, Cheryl Doss and Markus Goldstein</em> </font>)</a></span></font>
   <br/><font size="2"><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/255851630330267060/sharing-responsibility-through-joint-decision-making-and-implications-for-intimate-partner-violence-evidence-from-12-sub-saharan-african-countries" style="color:#6495ed;"> WB Working Paper WPS9760 </a></font> <font size="2"><a href="https://blogs.worldbank.org/developmenttalk/joint-decision-making-protective-african-women-and-why" style="color:#6495ed;"> Blog </a></font> </li>
 </ul>
+
+
+
+
+
+    <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming), Delhi School of Economics CDE Seminars (upcoming), ACEGD ISI 2021 (upcoming) </font></b></p>
+
+<ul>
+ <li><font size="3" style="color:#C35900"> Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font>
+  <br/><font size="2"><a style="color:#17202a;">Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up)</a></font>
+   <br/><font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font>
+   <br/><font size="2"><a style="color:#17202a;">Presentations: The North East Universities Development Consortium (NEUDC) 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022 </a></font>
+  
+
