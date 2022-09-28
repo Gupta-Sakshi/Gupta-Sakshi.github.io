@@ -30,22 +30,12 @@ effects on the fertility decision of parents? As part of a broader research agen
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>Work in Progress</center></strong></h4>
 
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
-<p style="margin-top:30px;"><font size="3" style="color:#C35900">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)</strong><br>
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)</strong><br>
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)</strong><br>
 
 
 
-<ul>
-  <li><font size="3">Banks and Roads: Do Complementarities Matter? (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
-</ul> 
-<ul>
-  <li><font size="3">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence
-from India (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
-</ul> 
-<ul>
-  <li><font size="3">The Measurement and Evolution of Son Preference in India (<font size="2"> with <em> S Anukriti and Nistha Sinha</em> </font>)</font></li>
-</ul> 
 
 
 
@@ -73,4 +63,14 @@ from India (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
    <br/><font size="2"><a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font>
    <br/><font size="2"><a style="color:#17202a;">Presentations: The North East Universities Development Consortium (NEUDC) 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022 </a></font>
   
+<ul>
+  <li><font size="3">Banks and Roads: Do Complementarities Matter? (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
+</ul> 
+<ul>
+  <li><font size="3">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence
+from India (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
+</ul> 
+<ul>
+  <li><font size="3">The Measurement and Evolution of Son Preference in India (<font size="2"> with <em> S Anukriti and Nistha Sinha</em> </font>)</font></li>
+</ul> 
 
