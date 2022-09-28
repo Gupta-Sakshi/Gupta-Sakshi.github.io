@@ -29,6 +29,13 @@ effects on the fertility decision of parents? As part of a broader research agen
 
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>Work in Progress</center></strong></h4>
+
+<p style="margin-top:30px;"><font size="3" style="color:#C35900">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<p style="margin-top:30px;"><font size="3" style="color:#C35900">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
+<p style="margin-top:30px;"><font size="3" style="color:#C35900">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti and Nistha Sinha</em> </font>)<br>
+
+
+
 <ul>
   <li><font size="3">Banks and Roads: Do Complementarities Matter? (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
 </ul> 
