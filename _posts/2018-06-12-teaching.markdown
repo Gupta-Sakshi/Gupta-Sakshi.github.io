@@ -1,13 +1,15 @@
 ---
-title:  "Teaching"
+title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
+
+<h4 style="margin-top:30px;" id="working-papers"><strong>Teaching Experience</strong></h4>
 <p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
-<h5 id="masters"><strong>Teaching Assistant, Columbia University </strong></h5>
+<h5 id="masters"><strong style="color:#C35900">Teaching Assistant, Columbia University </strong></h5>
 
 <ul>
  <li> Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em>Fall'19, Spring'20</em> 
