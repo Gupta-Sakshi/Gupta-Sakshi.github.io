@@ -10,7 +10,7 @@ tags: [jekyll]
 
   <p style="margin-top:30px;"><b><strong><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></strong><br>
   <font size="2" style="color:#000000;"> Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up) </font><br>
-  <font size="2" style="color:#000000;"> <a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#6495ed;">Coverage: IGC - Ideas For India</a></font><br>
+  <font size="2" style="color:#000000;"> <a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#000000;">Coverage: IGC - Ideas For India</a></font><br>
 <font size="2" style="color:#000000;"> Presentations: NEUDC 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022, Yale Gender Brown Bag Series 2022 (upcoming)</font></b></p>
     
      <ul style="margin-top:-17px;"> 
