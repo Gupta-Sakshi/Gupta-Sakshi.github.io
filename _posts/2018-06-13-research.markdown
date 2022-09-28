@@ -18,6 +18,14 @@ tags: [jekyll]
  </li> 
 </ul> 
 
+
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
+
+<p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Liquidity Shock and Schooling: Evidence from India’s Demonetization (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></strong><br>
+<ul style="margin-top:-17px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Evidence across developing countries suggests that parents are often credit constrained when making schooling decisions for their children. But little is known about the severity of this constraint. That is, would temporary shocks to liquidity affect parents’ decisions? To identify this effect, we use a shock to available cash in the economy induced by India’s 2016 demonetization. The policy made 86\% of currency-in-circulation illegal overnight and individuals could deposit old notes at the bank in exchange for new ones. We identify the impacts of demonetization’s severity by leveraging discontinuities in banking access across Indian districts. Difference-in-discontinuity estimates show that districts which experienced a more severe liquidity shock saw an increase in dropout from private schools but no effect in free public schools, consistent with the presence of real credit constraints.</font></p></details></ul>
+
+
 <ul>
   <li><font size="3">Dynamics of Female Labor Force Participation in India </font></li>
 </ul> 
