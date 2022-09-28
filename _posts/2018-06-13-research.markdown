@@ -33,9 +33,6 @@ effects on the fertility decision of parents? As part of a broader research agen
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>Work in Progress</center></strong></h4>
 <ul>
-  <li><font size="3"> </font></li>
-</ul> 
-<ul>
   <li><font size="3">Banks and Roads: Do Complementarities Matter? (<font size="2"> with <em>Dhruv Jain</em> </font>)</font></li>
 </ul> 
 <ul>
