@@ -6,7 +6,7 @@ tags: [jekyll]
 
 
     
-<h4 style="margin-top:30px;" id="working-papers"><strong>JOB MARKET PAPER</strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><font size="3" style="color:#C35900">Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font></strong><br>
   <font size="2" style="color:#000000;"> Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up) </font><br>
@@ -16,7 +16,7 @@ tags: [jekyll]
  <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Over the past few decades, Indian women have become more educated and have gained greater control over their fertility decisions, but, unlike the western experience, this has not led to increased participation in the labor market. I examine the role played by the male breadwinner norm in explaining this puzzle. I first establish a sharp discontinuity in the distribution of the share of the wife’s income in the total household income where the wife’s income exceeds the husband’s income. The size of this discontinuity is much larger than that observed in developed countries like the U.S. I show that this pattern can be best explained by gender identity norms that make couples averse to situations where the wife earns more than her husband. I do so by interpreting the male breadwinner norm as a notch in household preferences which results in this kind of aversion. Moreover, I show that this aversion has real implications on the labor market decisions of the wife. First, she is less likely to participate in market activities if her potential income is likely to exceed her husband’s. Second, she earns less than her potential if she does work and can potentially out-earn her husband. I observe that this phenomenon is more pronounced in couples where husbands are making the labor market decisions of their wives and in households that follow other regressive gender norms suggesting backlash.</font></p></details></ul>
 
 
-<h4 style="margin-top:30px;" id="working-papers"><strong>WORKING PAPERS</strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
 <p style="margin-top:30px;"><strong><font size="3" style="color:#C35900">Liquidity Shock and Schooling: Evidence from India’s Demonetization </font></strong>(<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
 <ul style="margin-top:-17px;">
@@ -29,7 +29,7 @@ effects on the fertility decision of parents? As part of a broader research agen
 
 
 
-<h4 style="margin-top:30px;" id="working-papers"><strong>POLICY WORK</strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>POLICY WORK</center></strong></h4>
 
 <p style="margin-top:30px;"><strong><a href="https://www.theigc.org/wp-content/uploads/2021/03/Bower-et-al-2021.pdf" target="_blank"><font size="3" style="color:#C35900">Is there an Urban Wage Premium in Rwanda?</font></a></strong> (<font size="2"> with  <em>Jonathan Bower & Carlo Menon</em> </font>)<br>
 <a href="https://www.theigc.org/publication/is-there-an-urban-wage-premium-in-rwanda/" target="_blank"><font size="2" style="color:#C35900">IGC Working Paper C-20061-RWA-1</font></a><br>
@@ -48,7 +48,7 @@ on decision making by the husband. The results are consistent with joint decisio
 
 
 
-<h4 style="margin-top:30px;" id="working-papers"><strong>SELECTED WORK IN PROGRESS</strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>SELECTED WORK IN PROGRESS</center></strong></h4>
 <p style="margin-top:20px;"><font size="3" style="color:#505050">Banks and Roads: Do Complementarities Matter?  </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
 <p style="margin-top:20px;"><font size="3" style="color:#505050">Do Informal Firms Benefit from Expansion in Formal Credit? Regression Discontinuity Evidence from India </font> (<font size="2"> with <em>Dhruv Jain</em> </font>)<br>
 <p style="margin-top:20px;"><font size="3" style="color:#505050">The Measurement and Evolution of Son Preference in India </font> (<font size="2"> with <em>S Anukriti & Nistha Sinha</em> </font>)<br>
