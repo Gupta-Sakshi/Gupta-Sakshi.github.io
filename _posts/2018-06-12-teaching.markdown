@@ -9,7 +9,7 @@ tags: [jekyll]
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
-<h5 id="masters"><strong style="color:#C35900">Teaching Assistant</strong>,<font face="Arial" "color:#C35900"> Columbia University </font></h5>
+<h5 id="masters"><strong style="color:#C35900">Teaching Assistant</strong><font face="Arial" "color:#C35900">, Columbia University </font></h5>
 
 <ul>
  <li><font  color="#000000">Principles of Economics (Wueller Award for best TA (Runner-up)) &middot; <em><font size="-1">Fall'19, Spring'20</font></em></font> 
@@ -23,7 +23,7 @@ tags: [jekyll]
   <li><font  color="#000000">Financial Economics &middot;  <em><font size="-1">Summer'18 </font></em></font> </li>
 </ul>
 
-<h5 id="dse"><strong style="color:#C35900"> Voluntary Remedial Lectures</strong>, <font face="Arial" "color:#C35900"> Delhi School of Economics</font></h5>
+<h5 id="dse"><strong style="color:#C35900"> Voluntary Remedial Lectures</strong><font face="Arial" "color:#C35900">, Delhi School of Economics</font></h5>
 
 <ul>
   <li><font  color="#000000">Microeconomics (M.A. Course)  &middot; <em><font size="-1">Fall'16</font></em></font></li>
