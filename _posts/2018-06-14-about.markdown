@@ -5,8 +5,8 @@ tags: [jekyll]
 ---
 I am a PhD Candidate in the Department of Economics at Columbia University. I am currently on the job market and expect to graduate in May 2023. 
 
-My primary research interests are in the fields of Development Economics, Labor Economics and Applied Microeconomics, with a specific focus on Gender. My current work focuses on understanding the impact of social and cultural norms on economic outcomes for women, especially their labor force participation in India.
-
+My primary research interests are in the fields of Development Economics, Labor Economics and Applied Microeconomics, with a specific focus on Gender. My current work focuses on understanding the impact of social and cultural norms on economic outcomes for women, especially their labor market outcomes in India. More broadly, through my research, I seek to understand the determinants and drivers of disparities in individuals’ outcomes, especially among disadvantaged groups of the population in developing countries.
+ 
 I hold a Master's degree in Economics from the Delhi School of Economics and a Bachelor’s degree from St. Stephen’s College.  
 
 For more information, please see my <a href="https://gupta-sakshi.github.io/files/Sakshi_Gupta_CV.pdf" target="_blank">CV </a> or contact me at <a href="mailto:sakshi.gupta@columbia.edu">sakshi.gupta@columbia.edu</a>
