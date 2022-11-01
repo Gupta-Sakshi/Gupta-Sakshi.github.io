@@ -7,4 +7,4 @@ Sakshi Gupta
 
 <strong>Mailing Address:</strong><br/> 420 W 118th Street, Department of Economics, Columbia University, NY - 10027  
 <br/>
-<strong>Email:</strong> sakshi.gupta@columbia.edu  
+<a href="Email:sakshi.gupta@columbia.edu">sakshi.gupta@columbia.edu</a>   
