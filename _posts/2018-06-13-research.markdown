@@ -8,7 +8,7 @@ tags: [jekyll]
     
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-  <p style="margin-top:30px;"><b><strong><font size="3" style="color:#C35900">Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font></strong><br>
+  <p style="margin-top:30px;"><b><strong><a href="https://gupta-sakshi.github.io/files/SakshiGupta_JMP_Latest.pdf" target="_blank"><font size="3" style="color:#C35900">Labor Market Response to Gendered Breadwinner Norms: Evidence from India </font></strong><br>
   <font size="2" style="color:#000000;"> Awards: Vickrey Award for best 3rd year paper (Runner-up); Wueller Pre-Dissertation Award (Runner-up) </font><br>
   <font size="2" style="color:#C35900;"> Coverage: <a href="https://www.ideasforindia.in/topics/social-identity/gendered-breadwinner-norms-and-work-decisions.html" style="color:#C35900;"> IGC - Ideas For India</a></font><br>
 <font size="2" style="color:#000000;"> Presentations: NEUDC 2020, Young Economist Symposium (YES) 2021, ACEGD ISI 2021, World Bank's South Asia Economic Policy Network Conference 2022, Yale Gender Brown Bag Series 2022</font></b></p>
